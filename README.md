@@ -98,5 +98,10 @@ Proud to present **Flavour Haven**! This project is a food ordering app designed
 
 ---
 
+## 📸 Demo
+https://github.com/user-attachments/assets/48075303-dfb0-40ef-b09f-ee4d7aa2ef67
+
+---
+
 ### 📬 Contact
 For questions or feedback, feel free to reach out on LinkedIn: [Ahmed Emad](https://www.linkedin.com/in/ahmed-emad-%F0%9F%87%B5%F0%9F%87%B8-010a52262/), [Mohamed Khedr](https://www.linkedin.com/in/mohamed-khedr-186861244/), [Abdelmalek Mokhtar](https://www.linkedin.com/in/abdelmalek-mokhtar-476033287/), [Ahmed Moemen](https://www.linkedin.com/in/ahmad-moemen/)
